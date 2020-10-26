@@ -1,0 +1,26 @@
+p {
+  margin: 10px 0 !important;
+}
+
+.loginlayout {
+  background-color: rgb(255, 255, 255);
+}
+
+.login-container {
+  width: 800px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
